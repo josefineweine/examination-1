@@ -1,0 +1,4 @@
+package.json
+dist
+.parcel-cache
+DS_Store
